@@ -1,0 +1,28 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "entityType" : "ConfigurationVersionService",
+    "entityId" : "default",
+    "uid" : "ou=default,ou=GlobalConfig,ou=1.0,ou=ConfigurationVersionService,ou=services,ou=am-config",
+    "sunServiceID" : null,
+    "objectClass" : [
+      "top",
+      "sunServiceComponent",
+      "organizationalunit"
+    ],
+    "pathParams" : { },
+    "ou" : [
+      "default"
+    ]
+  },
+  "data" : {
+    "_type" : {
+      "_id" : "ConfigurationVersionService",
+      "name" : "ConfigurationVersionService",
+      "collection" : false
+    },
+    "_id" : "default",
+    "configurationVersion" : "3.0.0.1",
+    "configurationCommit" : "1c17cc27b8237484b5c7b49ccabfd712da0c0f3e"
+  }
+}
