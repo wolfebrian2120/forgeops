@@ -1,4 +1,4 @@
-FROM gcr.io/forgerock-io/ig:7.2.0
+FROM 673492047887.dkr.ecr.us-east-1.amazonaws.com/bwolfefrcdk/ig:7.2.0
 
 COPY debian-buster-sources.list /etc/apt/sources.list
 

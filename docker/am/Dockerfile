@@ -1,4 +1,4 @@
-FROM gcr.io/forgerock-io/am-base:7.2.0
+FROM 673492047887.dkr.ecr.us-east-1.amazonaws.com/bwolfefrcdk/am-base:7.2.0
 USER root
 
 ENV DEBIAN_FRONTEND=noninteractive

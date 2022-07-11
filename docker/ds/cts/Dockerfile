@@ -1,4 +1,4 @@
-FROM gcr.io/forgerock-io/ds:7.2.0
+FROM 673492047887.dkr.ecr.us-east-1.amazonaws.com/bwolfefrcdk/ds:7.2.0
 
 USER root
 
